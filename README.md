@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33744630/README.md)
+
 ![Glass Home](docs/home.png)
 
 # Glass Home: Android TV launcher

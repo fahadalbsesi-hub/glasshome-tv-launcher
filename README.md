@@ -1,4 +1,4 @@
-![Glass Home](docs/home.png)
+
 
 # Glass Home: Android TV launcher
 

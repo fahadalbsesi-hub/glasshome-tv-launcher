@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glass Home</string>
+    <string name="greet_night">تصبح على خير</string>
+    <string name="greet_morning">صباح الخير</string>
+    <string name="greet_afternoon">مساء الخير</string>
+    <string name="greet_evening">مساء الخير</string>
+    <string name="offline">غير متصل</string>
+    <string name="ethernet">إيثرنت</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="settings">الإعدادات</string>
+    <string name="customize">تخصيص</string>
+    <string name="inputs">المداخل</string>
+    <string name="live_tv">البث المباشر</string>
+
+    <string name="move_left">تحريك لليسار</string>
+    <string name="move_right">تحريك لليمين</string>
+    <string name="remove_dock">إزالة من الشريط</string>
+    <string name="add_dock">إضافة إلى الشريط</string>
+    <string name="hide_app">إخفاء التطبيق</string>
+    <string name="app_info">معلومات التطبيق</string>
+
+    <string name="s_title">تخصيص</string>
+    <string name="s_dock">تطبيقات الشريط</string>
+    <string name="s_dock_hint">في الشاشة الرئيسية، اضغط زر القائمة أو اضغط مطولاً على OK فوق أي تطبيق لإضافته إلى الشريط أو تحريكه أو إزالته.</string>
+    <string name="s_dock_reset">إعادة ضبط الشريط</string>
+    <string name="s_wallpaper">الخلفية</string>
+    <string name="s_glow">التوهج</string>
+    <string name="s_columns">عدد الأعمدة</string>
+    <string name="s_labels">أسماء التطبيقات</string>
+    <string name="s_clock">الساعة</string>
+    <string name="s_greeting">التحية</string>
+    <string name="s_date">التاريخ</string>
+    <string name="s_wifi_name">إظهار اسم الشبكة</string>
+    <string name="s_hidden">التطبيقات المخفية</string>
+    <string name="s_about">الإصدار</string>
+    <string name="v_on">تشغيل</string>
+    <string name="v_off">إيقاف</string>
+    <string name="v_auto">تلقائي</string>
+    <string name="v_12h">12 ساعة</string>
+    <string name="v_24h">24 ساعة</string>
+    <string name="v_focus">عند التحديد</string>
+    <string name="v_always">دائماً</string>
+    <string name="v_none">لا يوجد</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+
+    <string name="wp_black">أسود</string>
+    <string name="wp_midnight">منتصف الليل</string>
+    <string name="wp_aurora">الشفق</string>
+    <string name="wp_sunset">الغروب</string>
+    <string name="wp_ocean">المحيط</string>
+    <string name="wp_graphite">جرافيت</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dock apps, left to right (max 4). Missing/disabled packages are skipped. -->
+    <string-array name="dock_packages">
+        <item>com.google.android.youtube.tv</item>
+        <item>com.netflix.ninja</item>
+        <item>com.thmanyah.shasha.tv</item>
+        <item>com.nuvio.tv</item>
+    </string-array>
+
+    <!-- Apps never shown in the grid. -->
+    <string-array name="hidden_packages">
+        <item>com.android.tv.settings</item>
+        <item>me.efesser.flauncher</item>
+    </string-array>
+
+    <!-- Wallpaper: put an image in res/drawable-nodpi/ (e.g. wallpaper.jpg) and set its
+         name here without extension. Empty = pitch black. -->
+    <string name="wallpaper"></string>
+</resources>

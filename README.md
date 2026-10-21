@@ -9,14 +9,6 @@ A clean, light home screen for Android TV with a glass highlight, an app dock, a
 
 **Requirements:** Android TV / Google TV with Android 8.0 or newer. Samsung Tizen, LG webOS and Fire TV are not supported.
 
-## Verify the download
-Check the file before you install it:
-
-- **File SHA-256:** must match the value in `SHA256SUMS.txt` for this release.
-- **Signing certificate SHA-256:** the same for every official version.
-  ```
-  570c01f09c446b8b8aa7331fcc314367691aeacb8822c4ac5a2061d6375bbe9a
-  ```
 
 Android only installs an update over Glass Home if it is signed with this same certificate.
 
@@ -53,14 +45,6 @@ Go to **Settings → Apps → Glass Home → Uninstall**. The TV goes back to it
 
 **المتطلبات:** جهاز Android TV أو Google TV بإصدار أندرويد 8.0 أو أحدث. ما يدعم تلفزيونات سامسونج (Tizen) وإل جي (webOS) وأجهزة Fire TV.
 
-## تأكد من الملف
-قبل التثبيت تأكد من الملف:
-
-- **بصمة الملف SHA-256:** لازم تطابق القيمة في `SHA256SUMS.txt` لنفس الإصدار.
-- **بصمة شهادة التوقيع:** نفسها لكل النسخ الرسمية.
-  ```
-  570c01f09c446b8b8aa7331fcc314367691aeacb8822c4ac5a2061d6375bbe9a
-  ```
 
 أندرويد ما يقبل تثبيت تحديث فوق Glass Home إلا إذا كان موقّعاً بنفس هذه الشهادة.
 
